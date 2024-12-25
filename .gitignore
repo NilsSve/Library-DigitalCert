@@ -1,0 +1,18 @@
+# Ignore basic compiler files.
+*.dep
+*.prn
+*.dbg
+*.exe
+*.dsk
+*.mtd
+*.fld
+*.pbg
+*.pdp
+*.pkd
+*.prp
+*.log
+
+# Ignore the Studio files.
+*.loc
+**/LoginEncryptionKey.inc
+**/IdeSrc/
