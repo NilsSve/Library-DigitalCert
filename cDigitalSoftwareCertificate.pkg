@@ -49,7 +49,7 @@ Use cApplication.pkg
 Use Dfcursor.pkg
 Use vWin32fh.pkg
 Use cExternalProgramResult.pkg
-Use cDigitalSoftwareCertificate.inc
+Use cDigitalSoftwareCertificate.h.pkg
 
 #IFNDEF ghoDigitalSoftwareCertificate
     Global_Variable Integer ghoDigitalSoftwareCertificate
