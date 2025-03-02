@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 [Properties]
 Version=25.0
 [WorkspacePaths]
 ConfigFile=.\Config.ws
 [Preferences]
 DefaultFormHeight=12
+=======
+[Properties]
+Version=25.0
+[WorkspacePaths]
+ConfigFile=.\Config.ws
+[Preferences]
+DefaultFormHeight=12
+>>>>>>> 772bacec74275a40cabf4ddb4ad5191645b27496
